@@ -16,13 +16,13 @@ body {
 }
 
 main {
-    padding: 50px;
+    padding: 50px 250px;
 }
 
 .backgr {
     background-color: white;
     border-radius: 5px;
-    margin: 10px;
+    margin: 4px;
     padding: 15px 40px;
 }
 
@@ -113,6 +113,15 @@ h2 {
     background-color: #F39C34;
     color: white;
     border: 2px solid #F39C34;
+    padding: 6px;
+    border-radius: 15px;
+    font-size: 12px;
+}
+
+.limeB {
+    background-color: #B0C925;
+    color: white;
+    border: 2px solid #B0C925;
     padding: 6px;
     border-radius: 15px;
     font-size: 12px;
